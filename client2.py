@@ -1,6 +1,6 @@
 import socket
 # 鏈接服務端ip和端口
-ip_port = ('127.0.0.1',9999)
+ip_port = ('192.168.42.6',9999)
 # 生成一個socket對象
 client = socket.socket()
 # 請求連接服務端
